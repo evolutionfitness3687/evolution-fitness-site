@@ -1,0 +1,6 @@
+{
+  "name": "Academia Evolution Fitness",
+  "description": "Site institucional e painel administrativo da Academia Evolution Fitness em Três Rios - RJ. Musculação e aulas coletivas com acompanhamento de verdade.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
